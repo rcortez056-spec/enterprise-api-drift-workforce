@@ -2,7 +2,7 @@
 
 An enterprise-grade, four-node AI workforce built on Relevance AI to detect, audit, remediate, and log API schema drift in real time. Prevents broken payloads from corrupting downstream production databases.
 
-[![Buy Template on Payhip](https://img.shields.io/badge/Deploy%20Now-%24999%20USD-blue?style=for-the-badge)](https://ramoncortezai.com/b/Dkvy5)
+[![Buy Template on Payhip](https://img.shields.io/badge/Deploy%20Now-%24999%20USD-blue?style=for-the-badge)](https://ramoncortezai.com/b/DkvyS)
 
 ---
 
