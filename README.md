@@ -2,7 +2,7 @@
 
 An enterprise-grade, four-node AI workforce built on Relevance AI to detect, audit, remediate, and log API schema drift in real time. Prevents broken payloads from corrupting downstream production databases.
 
-[![Buy Template on Payhip](https://img.shields.io/badge/Deploy%20Now-%24999%20USD-blue?style=for-the-badge)](https://ramoncortezai.com/b/DkvyS)
+[![Buy Template on Payhip](https://img.shields.io/badge/Deploy%20Now-%24999%20USD-blue?style=for-the-badge)](https://store.ramoncortezai.com/b/DkvyS)
 
 ---
 
@@ -32,7 +32,7 @@ This workforce coordinates four specialized AI agents to handle drift governance
 
 ## ⚡ Quick Deployment
 
-1. **Get the Template:** Purchase and clone the workforce template directly into your Relevance AI account via [Payhip](https://ramoncortezai.com/b/DkvyS).
+1. **Get the Template:** Purchase and clone the workforce template directly into your Relevance AI account via [Payhip](https://store.ramoncortezai.com/b/DkvyS).
 2. **Bring Your Own Key (BYOK):** Add your primary OpenAI, Anthropic, or Gemini API key under Relevance AI settings to run executions with zero credit limits.
 3. **Connect Webhook:** Copy the Webhook Endpoint URL from the Trigger node and attach it to your upstream system (Stripe, GitHub, custom API).
 
