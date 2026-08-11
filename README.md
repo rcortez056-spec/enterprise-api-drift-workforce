@@ -32,7 +32,7 @@ This workforce coordinates four specialized AI agents to handle drift governance
 
 ## ⚡ Quick Deployment
 
-1. **Get the Template:** Purchase and clone the workforce template directly into your Relevance AI account via [Payhip](https://.store.ramoncortezai.com)
+1. **Get the Template:** Purchase and clone the workforce template directly into your Relevance AI account via [Payhip](https://store.ramoncortezai.com)
 2. **Bring Your Own Key (BYOK):** Add your primary OpenAI, Anthropic, or Gemini API key under Relevance AI settings to run executions with zero credit limits.
 3. **Connect Webhook:** Copy the Webhook Endpoint URL from the Trigger node and attach it to your upstream system (Stripe, GitHub, custom API).
 
